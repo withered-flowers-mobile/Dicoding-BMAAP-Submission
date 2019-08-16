@@ -46,13 +46,13 @@
                     android:layout_marginBottom="@dimen/item_space_margin"/>
 
             <TextView
-                    android:id="@+id/tv_item_abilities01_pokemon"
+                    android:id="@+id/tv_item_statshp_pokemon"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="@dimen/item_text_size_normal"/>
 
             <TextView
-                    android:id="@+id/tv_item_abilities02_pokemon"
+                    android:id="@+id/tv_item_statsspd_pokemon"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="@dimen/item_text_size_normal"/>

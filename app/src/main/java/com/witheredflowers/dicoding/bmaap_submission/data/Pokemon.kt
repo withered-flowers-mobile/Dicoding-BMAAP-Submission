@@ -1,5 +1,9 @@
 package com.witheredflowers.dicoding.bmaap_submission.data
 
+import android.os.Parcelable
+import kotlinx.android.parcel.Parcelize
+
+@Parcelize
 data class Pokemon (
     var pokeNumber: Int,
     var pokeName: String,
@@ -16,4 +20,4 @@ data class Pokemon (
     var pokeStats_Speed: Int,
     var pokeTypes01: String,
     var pokeTypes02: String
-)
+) : Parcelable

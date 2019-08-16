@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">DicodingBMAAPSubmission</string>
+    <string name="about_me">About Me</string>
+    <string name="about_name">-</string>
+    <string name="about_email">-</string>
+    <string name="id">#ID</string>
+    <string name="name">Name</string>
+    <string name="table_stats">Table Stats</string>
+    <string name="hp">HP</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+    <string name="special_attack">Special Attack</string>
+    <string name="special_defense">Special Defense</string>
+    <string name="speed">Speed</string>
+    <string name="table_abilities">Table Abilities</string>
+    <string name="table_types">Table Types</string>
+    <string name="name_01">Name 01</string>
+    <string name="name_02">Name 02</string>
+    <string name="desc_01">Desc 01</string>
+    <string name="desc_02">Desc 02</string>
+    <string name="type_02">Type 02</string>
+    <string name="type_01">Type 01</string>
 </resources>
